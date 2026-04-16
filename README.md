@@ -94,7 +94,7 @@ A figure of how stuff is connected to the raspberry pi is shown below.
 
 ### Images of it being worked on
 
-This project was fun to make. The whole process was a bit frustrating at time but incredibly rewarding once it worked and once the recipient told me how awesome they thought it was! Some images below show the work in progress images I took.
+This project was fun to make. The whole process was a bit frustrating at times but incredibly rewarding once it worked and once the recipient told me how awesome they thought it was! Some images below show the work in progress images I took.
 
 <img src="https://github.com/Sylvial-00/VFR-LED-map-Saskatchewan/blob/main/VFRMapImages/metar-map-for-my-bfs-christmas-present-v0-udrg92vdsf4g1.webp?raw=true" width="250">
 <img src="https://github.com/Sylvial-00/VFR-LED-map-Saskatchewan/blob/main/VFRMapImages/PXL_20251129_223112543.MP.jpg?raw=true" width="250">
