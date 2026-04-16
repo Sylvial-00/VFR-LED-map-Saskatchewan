@@ -8,6 +8,7 @@ This repository has:
 - The edited python script from
 
 - The full image used of Saskatchewan used for the map. I created this map by taking multiple screenshots of Saskatchewan piece by piece through https://www.fltplan.com/ . I then stitched the images together through Photoshop.
+  - Becasue Canda doesn't make sectionals of provinces easy to obtain digitally, I made it myself so I could ensure quality and edit it to whatever I desire.
 
 
 ---
