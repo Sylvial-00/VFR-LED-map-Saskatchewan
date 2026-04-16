@@ -1,6 +1,6 @@
 # ✈︎ VFR-LED-map-Saskatchewan ✈︎
 An LED-lit map of Saskatchewan designed for VFR (Visual Flight Rules) navigation. Think of it as a backlit sectional chart that helps pilots see airports, landmarks, and airspace boundaries at a glance. 
-Powered by a Raspberry Pi Zero 2 WH. LEDs show current flight conditions, and an e-ink display shows local weather for towns and cities.
+Powered by a Raspberry Pi Zero 2 WH with ws2811 lights for the LEDs. LEDs show current flight conditions, and an e-ink display shows local weather for towns and cities.
 
 This repository has: 
 - The .img (disk image) of the raspberry pi
