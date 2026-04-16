@@ -90,6 +90,7 @@ The script starts automatically on reboot using a crontab:
 
 A figure of how stuff is connected to the raspberry pi is shown below.
 
+<img src="https://github.com/Sylvial-00/VFR-LED-map-Saskatchewan/blob/main/VFRMapImages/Wiring1.png?raw=true" width="250">
 
 ### Images of it being worked on
 
@@ -97,4 +98,4 @@ This project was fun to make. The whole process was a bit frustrating at time bu
 
 <img src="https://github.com/Sylvial-00/VFR-LED-map-Saskatchewan/blob/main/VFRMapImages/metar-map-for-my-bfs-christmas-present-v0-udrg92vdsf4g1.webp?raw=true" width="250">
 <img src="https://github.com/Sylvial-00/VFR-LED-map-Saskatchewan/blob/main/VFRMapImages/PXL_20251129_223112543.MP.jpg?raw=true" width="250">
-
+<img src="https://github.com/Sylvial-00/VFR-LED-map-Saskatchewan/blob/main/VFRMapImages/PXL_20251129_044730150.MP.jpg?raw=true" width="250">
