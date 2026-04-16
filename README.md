@@ -11,9 +11,9 @@ This repository has:
   - Becasue Canda doesn't make sectionals of provinces easy to obtain digitally, I made it myself so I could ensure quality and edit it to whatever I desire.
 
 <img src="https://raw.githubusercontent.com/Sylvial-00/VFR-LED-map-Saskatchewan/refs/heads/main/VFRMapImages/20260131_211743.jpg" width="300" hspace="100"><img src="https://raw.githubusercontent.com/Sylvial-00/VFR-LED-map-Saskatchewan/refs/heads/main/VFRMapImages/20260316_212902.jpg" width="300">
-<div style="text-align: center;">
+<p align="center">
   <img src="https://github.com/Sylvial-00/VFR-LED-map-Saskatchewan/blob/main/VFRMapImages/PXL_20251219_001834482.LS.gif?raw=true" width="200">
-</div>
+</p>
 ---
 ## What other repositories did I use?
 
