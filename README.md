@@ -10,7 +10,7 @@ This repository has:
 - The full image used of Saskatchewan used for the map. I created this map by taking multiple screenshots of Saskatchewan piece by piece through https://www.fltplan.com/ . I then stitched the images together through Photoshop.
   - Becasue Canda doesn't make sectionals of provinces easy to obtain digitally, I made it myself so I could ensure quality and edit it to whatever I desire.
 
-
+<img src="https://raw.githubusercontent.com/Sylvial-00/VFR-LED-map-Saskatchewan/refs/heads/main/VFRMapImages/20260131_211743.jpg" width="200">
 ---
 ## What other repositories did I use?
 
