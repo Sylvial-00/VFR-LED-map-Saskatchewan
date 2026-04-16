@@ -90,7 +90,7 @@ The script starts automatically on reboot using a crontab:
 
 A figure of how stuff is connected to the raspberry pi is shown below.
 
-<img src="https://github.com/Sylvial-00/VFR-LED-map-Saskatchewan/blob/main/VFRMapImages/Wiring1.png?raw=true" width="350">
+<img src="https://github.com/Sylvial-00/VFR-LED-map-Saskatchewan/blob/main/VFRMapImages/Wiring1.png?raw=true" width="450">
 
 ### Images of it being worked on
 
