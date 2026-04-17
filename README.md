@@ -23,7 +23,7 @@ I believe in "not re-inventing the wheel" when creating something. I used
 - https://github.com/aeharding/metar-taf-parser/blob/main/example/src/helpers/metarTaf.ts
   - Used to help parse more of the aviation gov data. I use it alongside my own rudimentary parsing to double check and to make category checking easier.
 - https://github.com/MerlinLuchs/Weather-on-Waveshare
-  - Used to control the e-ink display. I did change a bit of the code to add the location of the current displayed weather and to move around icons.
+  - Used to control the e-ink display. I did change a bit of the code to add the location of the current displayed weather and to move around icons, change size of icons and text as well.
 
 ## What does this do
 
