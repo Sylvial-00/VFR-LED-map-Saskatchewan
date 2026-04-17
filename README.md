@@ -36,13 +36,10 @@ The e-ink display shows temperature, humidity, and weather for a town or city. I
 ## Airports Included
 
 | | | |
-|---|---|---|
-| Stony Rapids | Meadow Lake | Kindersley |
-| Key Lake | Prince Albert | Yorkton |
-| Buffalo Narrows | Nipawin | Swift Current |
+| Stony Rapids | Meadow Lake | Kindersley | Saskatoon |
+| Key Lake | Prince Albert | Yorkton | Regina |
+| Buffalo Narrows | Nipawin | Swift Current | Estevan |
 | La Ronge | North Battleford | Moose Jaw |
-| | Saskatoon | Regina |
-| | | Estevan |
 
 Airports were chosen based on availability through aviationweather.gov. Not all Saskatchewan airports were listed there, nor did all have reliable data.
 
