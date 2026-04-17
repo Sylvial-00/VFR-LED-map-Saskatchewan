@@ -5,7 +5,7 @@ Powered by a Raspberry Pi Zero 2 WH with ws2811 lights for the LEDs, and a Waves
 This repository has: 
 - The .img (disk image) of the raspberry pi
 - The Python script used to parse the VFR data and display the data
-  - There are many already made code repo's for VFR data/maps, but I wanted more flexibility since custom VFR maps for _Canada_ in particular aren't that common compare to USA. I also wanted to add categories for thunderstorms or high winds or frozen precipitation. So I wrote a lot of my own functions for this.
+  - There are many already made code repo's for VFR data/maps, but I wanted to add categories for thunderstorms or high winds or frozen precipitation. So I wrote a lot of my own functions. Also allowed me to add more if I ever wanted to.
 - The edited python script from
 
 - The full image used of Saskatchewan used for the map. I created this map by taking multiple screenshots of Saskatchewan piece by piece through https://www.fltplan.com/ . I then stitched the images together through Photoshop.
