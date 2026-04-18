@@ -99,6 +99,3 @@ This project was fun to make. The whole process was a bit frustrating at times b
 <img src="https://github.com/Sylvial-00/VFR-LED-map-Saskatchewan/blob/main/VFRMapImages/PXL_20251129_223112543.MP.jpg?raw=true" width="250">
 <img src="https://github.com/Sylvial-00/VFR-LED-map-Saskatchewan/blob/main/VFRMapImages/PXL_20251129_044730150.MP.jpg?raw=true" width="250">
 =======
-# VFR-LED-map-Saskatchewan
-An LED-lit map of Saskatchewan designed for VFR (Visual Flight Rules) navigation. Think of it as a backlit sectional chart that helps pilots see airports, landmarks, and airspace boundaries at a glance.
->>>>>>> 76265d7 (Initial commit)
