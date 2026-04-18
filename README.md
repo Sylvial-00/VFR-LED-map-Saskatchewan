@@ -4,7 +4,7 @@ Powered by a Raspberry Pi Zero 2 WH with ws2811 lights for the LEDs, and a Waves
 
 This repository has: 
 - The .img (disk image) of the raspberry pi
-- The Python script used to parse the VFR data and display the data
+- The Python script used to parse the VFR data and display the data (#AirportMetar.py)
   - There are many already made code repo's for VFR data/maps, but I wanted to add categories for thunderstorms or high winds or frozen precipitation, a legend, and an e-ink display. So I wrote a lot of my own functions. Also allowed me to add more if I ever wanted to.
   - Legend idea/format of text came from: https://aerosavvy.com/metar-map/
 - The edited python script from
